@@ -1,5 +1,6 @@
 -- craeting the second table
 USE hbtn_0c_0;
+DROP TABLE IF EXISTS second_table;
 CREATE TABLE second_table(
     id INT,
     name VARCHAR(256),
