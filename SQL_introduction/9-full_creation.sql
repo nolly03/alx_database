@@ -1,7 +1,7 @@
 -- craeting the second table
-USE hbtn_0c_0;
+USE hbtn_test_db_9;
 
-CREATE TABLE  second_table(
+CREATE TABLE second_table(
     id INT,
     name VARCHAR(256),
     score INT
