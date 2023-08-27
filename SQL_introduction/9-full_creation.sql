@@ -1,5 +1,5 @@
 -- craeting the second table
-DROP TABLE IF EXISTS second_table;
+
 
 CREATE TABLE second_table(
     id INT,
