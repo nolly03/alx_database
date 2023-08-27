@@ -1,3 +1,3 @@
 -- list all in table
-USE hbtn_0c_0;
+USE hbtn_test_db_0;
 SELECT * FROM first_table;
