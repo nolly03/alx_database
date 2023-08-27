@@ -1,3 +1,3 @@
 -- list tables
-
-SELECT * FROM mysql;
+USE hbtn_0c_0;
+SELECT * FROM hbtn_0c_0;
